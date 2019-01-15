@@ -3,7 +3,7 @@
 
 ## Problem Definition
 
-❖	We consider a computer program playing Tic Tac Toe game with a human. The program makes his best to win the game.
+❖	We consider a computer program playing Tic Tac Toe game with a human. The program tries its best to win the game.
 
 ❖This game is well known in France under the name of " jeu du morpion ".
 
