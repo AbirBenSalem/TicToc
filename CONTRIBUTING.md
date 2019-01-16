@@ -15,7 +15,7 @@ The TicToc game is currently divided in to 3 parts.
 
 ## Setting Up the project locally
 
-To compile and run the files in the srcfolder you need to have `java` set up on your machine 
+To compile and run the files in the src folder you need to have `java` set up on your machine 
 
 1.  [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone your fork:
 
