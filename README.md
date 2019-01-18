@@ -62,8 +62,6 @@ To compile and run the files in the src folder you need to have `java` set up on
 This project makes use of Junit 4.13 for testing
 
    ```
-
-
     # Navigate to the test directory
     cd TicToc/tests
     
