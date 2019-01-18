@@ -67,6 +67,4 @@ This project makes use of Junit 4.13 for testing
     
     #run the shell script
       ./test.sh
-   
      ```
-    
