@@ -32,3 +32,43 @@ Given the advantage given to the player who starts the game, it is recommended t
 
 ❖	So now when the player clicks on one of the grid spaces, it will be assigned either an "X" or an "O"
 
+## Installation instructions
+
+To compile and run the files in the src folder you need to have `java` set up on your machine 
+
+1.  [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone your fork:
+
+    ```
+    # Clone your fork
+    git clone https://github.com/<your-username>/TicToc.git
+
+    # Navigate to the newly cloned directory
+    cd TicToc/src
+    
+    #compile and run the console game code
+    
+    javac TicTocConsole.java
+    java TicTocConsole
+    
+    #compile and run the gui game code
+    
+     javac TicTocGUI.java
+     java TicTocGUI
+
+    ```
+
+## Testing instructions
+
+This project makes use of Junit 4.13 for testing
+
+   ```
+
+
+    # Navigate to the test directory
+    cd TicToc/tests
+    
+    #run the shell script
+      ./test.sh
+   
+     ```
+    
