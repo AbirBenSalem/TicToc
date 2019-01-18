@@ -57,7 +57,7 @@ Given the advantage given to the player who starts the game, it is recommended t
 
 ## Installation instructions
 
-To compile and run the files in the src folder you need to have `java` set up on your machine 
+To compile and run the files in the src folder it is assumed you already have `java` set up on your machine 
 
 1.  [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone your fork:
 
@@ -94,5 +94,6 @@ This project makes use of Junit 4.13 for testing
     cd TicToc/tests
     
     #run the shell script
-      ./test.sh
-     ```
+    ./test.sh
+      
+   ```
