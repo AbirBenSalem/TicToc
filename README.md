@@ -1,5 +1,9 @@
 # TicToc
 
+## Contributors
+
+
+|  [![Kwadwo Busumtwi](https://avatars3.githubusercontent.com/u/10486306?v=4&s=200)](https://github.com/supasheva) | [![Girilakshmi](https://avatars3.githubusercontent.com/u/679275?v=4&s=200)](https://github.com/girilakshmi)  | [![Abir](https://avatars3.githubusercontent.com/u/679275?v=4&s=200)](https://github.com/AbirBenSalem) | [![Sandeep](https://avatars3.githubusercontent.com/u/679275?v=4&s=200)](https://github.com/sanddyy10) 
 
 ## Problem Definition
 
@@ -8,10 +12,6 @@
 ❖This game is well known in France under the name of " jeu du morpion ".
 
 
-## Contributors
-
-
-|  [![Kwadwo Busumtwi](https://avatars3.githubusercontent.com/u/10486306?v=4&s=200)](https://github.com/supasheva) | [![Girilakshmi](https://avatars3.githubusercontent.com/u/679275?v=4&s=200)](https://github.com/girilakshmi)  | [![Abir](https://avatars3.githubusercontent.com/u/679275?v=4&s=200)](https://github.com/AbirBenSalem) | [![Sandeep](https://avatars3.githubusercontent.com/u/679275?v=4&s=200)](https://github.com/sanddyy10) 
 
 ## Rules of the game :
 
