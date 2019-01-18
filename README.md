@@ -41,19 +41,19 @@ Given the advantage given to the player who starts the game, it is recommended t
 
 ## Project scope
 
-❖	There will be a square game board divided into nine tiles spaces. 
+✅	There will be a square game board divided into nine tiles spaces. 
 
-❖	The player selects either an "X" or an "O" on one of the grid spaces using keyboard keys. 
+✅	The player selects either an "X" or an "O" on one of the grid spaces using keyboard keys. 
 
-❖	The game is over when one player claims 3 grid spaces in a row or there are no moves left.
+✅The game is over when one player claims 3 grid spaces in a row or there are no moves left.
 
-❖	First both the players are humans and then the first player is human and second player will be computer.
+✅	The player has the option to play with either the cpu or a friend.
 
-❖	Game can be continue from the previous paused session(History of game is available)
+✅	Game can be continue from the previous paused session(History of game is available)
 
-❖	Keyboard keys are replaced with mouse clicks for the game play. 
+✅	Player can interact with the game with the keyboard or the mouse. 
 
-❖	So now when the player clicks on one of the grid spaces, it will be assigned either an "X" or an "O"
+✅	When the player clicks on one of the grid spaces, it will be assigned either an "X" or an "O"
 
 ## Installation instructions
 
