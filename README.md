@@ -77,6 +77,11 @@ To compile and run the files in the src folder you need to have `java` set up on
     
      javac TicTocGUI.java
      java TicTocGUI
+     
+      #compile and run the latest game code
+    
+     javac TicTacToe.java
+     java TicTacToe
 
     ```
 
