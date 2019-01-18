@@ -1,4 +1,8 @@
-# TicToc
+
+<h1> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/761px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png"
+  width="128"
+  height="128"
+  style="float:left;">
 
 ## Contributors
 
