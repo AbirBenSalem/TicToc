@@ -87,9 +87,9 @@ class TicTacToeFrame extends JFrame
    //Icon ico=new ImageIcon(turn.toString()+".gif");
    Icon ico=null;
    if(turn==1)
-	  ico=new ImageIcon("x.png");
+	  ico=new ImageIcon( getClass().getResource("/x.png"));
    else if(turn==2)
-	  ico=new ImageIcon("o.png");
+	  ico=new ImageIcon( getClass().getResource("/o.png"));
    b.setIcon(ico);
    b.setEnabled(false);
    boolean result=checkVictoryCondition(index);
