@@ -48,7 +48,8 @@ public class TicTocConsole {
 					turn = "X";
 				}
 				drawTable();
-				winner = theWinner();
+				//winner = theWinner();
+				winner = theWinner(table); //Passing table Param for JUnit test case
 			} else {
 				System.out.println("Sorry:/ ");
                                 System.out.println("please Enter a new number:");
@@ -61,8 +62,9 @@ public class TicTocConsole {
 			System.out.println("Congratulations! " + winner + "'s have won!");
 		}
 	}
-     
-     static String theWinner() {
+     //Added table Param for JUnit test case 
+     //static String theWinner() {  
+	static String theWinner(String[] table) {
 		for (int a = 0; a < 8; a++) {
 			String line = null;
 			switch (a) {
